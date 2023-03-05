@@ -1117,12 +1117,3 @@ nav a button:hover {
 
 
 /* form */
-@media only screen and (max-width: 600px) {
-	#login-btn,
-	#register-btn {
-		pointer-events: none;
-		cursor: not-allowed;
-		opacity: 0.5;
-		
-	}
-}
